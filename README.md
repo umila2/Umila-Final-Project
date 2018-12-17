@@ -1,6 +1,7 @@
 ## Umila-Final-Project
 # Final Project Process
 
+![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/Part%201-100.jpg)
 
 ### Project Title: 
 HerStory: Timelines out of Domestic Violence
@@ -47,11 +48,11 @@ My process was chaotic and begin with synthesizing stories through mind maps and
  
  Timeline sketch:
  
- ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_timeline.png)
+ ![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_timeline.png)
  
  * Using the women's stories
  
- ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_story.png)
+ ![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_story.png)
    
   **Reflection**
   
