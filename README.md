@@ -2,6 +2,7 @@
 # Final Project Process
 
 ![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/Part%201-100.jpg)
+The entire project was emailed.
 
 ### Project Title: 
 HerStory: Timelines out of Domestic Violence
@@ -29,6 +30,8 @@ My thesis began very exploratory around the needs of women experiencing domestic
 This would also be an opportunity to tell these stories in an anonymous way in order to challenge the stigma, silence, and misunderstandings around domestic violence.  I thought this would especially critical on an issue where breaking the silence is necessary for change, and often data visualizations on this issue other reflect on rates of violence rather than the women's stories.
 
 As I parsed through their stories, I also realized this data would also help me explore the specific kinds of support that is missing and needed.  From their stories, it becomes clear that support for domestic violence survivors in this community is needed. For thesis, I will be designing a model of support with these 5 women to extend the Jahajee Sisters' existing support services.  However, first, we must together we must identify the specific needs as well as barriers to seeking support. This project has a created a tool for me to have this conversation with the women. 
+
+My values around this project are making it survivor-centered as well as using their voices as a site of power and empowerment to prompt change.
 
 **The Process**
 
@@ -60,5 +63,6 @@ My process was chaotic and begin with synthesizing stories through mind maps and
   
 The timelines I have allowed me to calculate average time between shared momemnts between the women.  While this may be reductive, it was super interesting to begin seeing these patterns, and I am looking forward to sharing this with the women and getting their insights around what the graphs says.
   
+  Next steps: Figuring out how to make this interactive!
   
   
