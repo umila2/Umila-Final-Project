@@ -61,8 +61,10 @@ My process was chaotic and begin with synthesizing stories through mind maps and
   
   The process of creating a dataset and being very structured about approaching their stories was super helpful.  While affinity mapping helped me identity key moments shared between the women, something about creating this visualization helped me narrow down the list to critical moments that influenced the women's decision-making.  In part, much of this happened, as I transitioned from going to a concept that was closer to a journey map to making timelines. 
   
-The timelines I have allowed me to calculate average time between shared momemnts between the women.  While this may be reductive, it was super interesting to begin seeing these patterns, and I am looking forward to sharing this with the women and getting their insights around what the graphs says.
+The timelines I have created allowed me to calculate average time between shared momemnts between the women.  While this may be reductive, it was super interesting to begin seeing these patterns, and I am looking forward to sharing this with the women and getting their insights around what the graphs says.
   
   Next steps: Figuring out how to make this interactive!
+  
+  Thank you, Joey!
   
   
