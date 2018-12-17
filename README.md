@@ -31,7 +31,7 @@ This would also be an opportunity to tell these stories in an anonymous way in o
 
 As I parsed through their stories, I also realized this data would also help me explore the specific kinds of support that is missing and needed.  From their stories, it becomes clear that support for domestic violence survivors in this community is needed. For thesis, I will be designing a model of support with these 5 women to extend the Jahajee Sisters' existing support services.  However, first, we must together we must identify the specific needs as well as barriers to seeking support. This project has a created a tool for me to have this conversation with the women. 
 
-My values around this project are making it survivor-centered as well as using their voices as a site of power and empowerment to prompt change.
+My values around this project are making it survivor-centered as well as using their voices as a site of power and empowerment to prompt change.  And I really wanted to celebrate the power within these women to make these decisions.
 
 **The Process**
 
