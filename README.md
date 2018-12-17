@@ -31,7 +31,9 @@ As I parsed through their stories, I also realized this data would also help me 
 
 **The Process**
 
-![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_affinity%20map.png)
+![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_affinity%20map.png) 
+![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_mind%20map.png)
+
 
 My process was chaotic and begin with synthesizing stories through mind maps and affinity maps.  This allowed me to come up with the key moments and life events that influenced their decision to leave, which I mapped out on each survivor's timeline.
 
@@ -43,7 +45,11 @@ My process was chaotic and begin with synthesizing stories through mind maps and
    
  I intially planned to map out moments when the women's boundaries where crossed.  Although I liked the concept, I did not find the visualization to be readable.  It also did not lead to new insights.  After my check-in with Joey, he was able to suggest using time as a variable, and therefore I created the timelines.
  
+ Timeline sketch:
+ ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_timeline.png)
+ 
  * Using the women's stories
+ ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_story.png)
    
   **Reflection**
   
