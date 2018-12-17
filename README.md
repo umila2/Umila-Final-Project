@@ -55,7 +55,7 @@ I intially planned to map out moments when the women's boundaries were crossed. 
  
  * Using the women's stories
  
- ![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_story.png)
+ ![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/__story.png)
    
   **Reflection**
   
