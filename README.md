@@ -31,6 +31,8 @@ As I parsed through their stories, I also realized this data would also help me 
 
 **The Process**
 
+![alt text](https://github.com/umila2/Umila-Final-Project/blob/master/_affinity%20map.png)
+
 My process was chaotic and begin with synthesizing stories through mind maps and affinity maps.  This allowed me to come up with the key moments and life events that influenced their decision to leave, which I mapped out on each survivor's timeline.
 
 *Relationship Begins * Abuse Begins * Has a child * Uses support service * Job security * Abusive relationship end*
