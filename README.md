@@ -40,6 +40,8 @@ My process was chaotic and begin with synthesizing stories through mind maps and
    Visualizing athways out of abuse -> Mapping boundaries -> Looking at pathways and key moments over time
    
  I intially planned to map out moments when the women's boundaries where crossed.  Although I liked the concept, I did not find the visualization to be readable.  It also did not lead to new insights.  After my check-in with Joey, he was able to suggest using time as a variable, and therefore I created the timelines.
+ 
+ * Using the women's stories
    
   **Reflection**
   
