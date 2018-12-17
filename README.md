@@ -46,9 +46,11 @@ My process was chaotic and begin with synthesizing stories through mind maps and
  I intially planned to map out moments when the women's boundaries where crossed.  Although I liked the concept, I did not find the visualization to be readable.  It also did not lead to new insights.  After my check-in with Joey, he was able to suggest using time as a variable, and therefore I created the timelines.
  
  Timeline sketch:
+ 
  ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_timeline.png)
  
  * Using the women's stories
+ 
  ![alt text] (https://github.com/umila2/Umila-Final-Project/blob/master/_story.png)
    
   **Reflection**
